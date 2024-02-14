@@ -8,7 +8,7 @@ seo:
   name: Department of Restorative Dentistry - SpeedGrader Technical Documentation
 ---
 
-# Just the Class
+# Department of Restorative Dentistry - SpeedGrader Techncial Documentation
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
