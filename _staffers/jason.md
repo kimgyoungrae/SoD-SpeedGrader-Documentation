@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Jason Kim
+role: Student Assistant and Software Developer
+email: kimjason@cs.uw.edu / uw.edu
+website: https://homes.cs.washington.edu/~kimjason/
+photo: jason.jpeg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Tuesdays 9:00-1:00pm, Wednesdays 9:00-11:00am, Thursdays 9:00-1:00pm (Subject to change by each week as I am a also a full-time undegraduate student.)
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
