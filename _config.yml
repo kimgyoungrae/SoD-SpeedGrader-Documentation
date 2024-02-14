@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Jason Kim:
+    - 'https://homes.cs.washington.edu/~kimjason'
   Kevin Lin:
     - 'https://kevinl.info'
   Just the Class on GitHub:
