@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: University of Washington School of Dentistry - Department of Restorative Dentistry
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Department of Restorative Dentistry - SpeedGrader Technical Documentation
 ---
 
 # Just the Class
