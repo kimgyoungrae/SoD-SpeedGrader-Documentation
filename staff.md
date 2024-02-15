@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Staff
+title: Support Staff
 description: A listing of all the course staff members.
 ---
 
-# Staff
+# Support Staff
 ## Student Assistant and Software Developer
 
 {% assign instructors = site.staffers | where: 'role', 'Student Assistant and Software Developer' %}

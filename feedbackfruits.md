@@ -1,9 +1,10 @@
 ---
 layout: page
 title: FeedbackFruits
-callouts:
-    color: red
 ---
+
+# FeedbackFruits
+{:.no_toc}
 
 {: .note-title }
 > Page Under Development
