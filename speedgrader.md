@@ -21,22 +21,28 @@ title: Canvas SpeedGrader
 
 ## Introduction
 SpeedGrader is a electronic grading tool from Canvas that had been adopted by the University of Washington School of Dentistry to facilitate digital grading. Digital grading has many advantages over paper grading:
--- It enhances student access to accurate grades.
--- It allows instructors to provide more instant and higher-quality feedback not typically offered through paper grading.
--- It minimizes the chance of lost scores, forms, or doctored forms.
--- It reduces printing burdens and paper waste.
--- It allows you to view the statistics for each grader for grading calibration and consistency.
+- It enhances student access to accurate grades.
+- It allows instructors to provide more instant and higher-quality feedback not typically offered through paper grading.
+- It minimizes the chance of lost scores, forms, or doctored forms.
+- It reduces printing burdens and paper waste.
+- It allows you to view the statistics for each grader for grading calibration and consistency.
 
 Like any other tool, SpeedGrader does have certain limitations and drawbacks:
--- It require a stable, high-speed internet connection.
--- It does not inform you if you have missed grading a criteria for a student.
--- It can override entered grades if multiple instructors grade the same student concurrently.
+- It require a stable, high-speed internet connection.
+- It does not inform you if you have missed grading a criteria for a student.
+- It can override entered grades if multiple instructors grade the same student concurrently.
 
 ## Affiliate Faculty
 ### Accessing SpeedGrader
+Prior to attending your clinic session, have the following ready:
+- Your UW NetID and corresponding password. (Note: Your UW NetID is the first part of your UW email. For example, if my email was 'johndoe@uw.edu', my UW NetID would be 'johndoe'.)
+- Your mobile phone that serves as your two-factor authentication (2FA) device.
+
+If you are unsure of your UW NetID, ask one of the course directors, program coordinators, or administrators to retrieve it for you. Alternatively, use this tool to [retrieve your UW NetID](https://identity.uw.edu/new/find). If you forget your password, [refer to this page](https://identity.uw.edu/account/resetpassword/).
+
 In order to access SpeedGrader on the iPad, follow these steps:
-1. Navigate to 'https://canvas.uw.edu' in the Safari web browser. Alternatively, click on the Purple UW bookmark from the homescreen dock to navigate to this page.
-2. Login with your UW NetID credentials. Your UW NetID is the first part of your UW email (for example, if my email was 'johndoe@uw.edu', my UW NetID would be 'johndoe'). You may be asked to sign in with two-factor authentication (2FA) for added security. 
+1. Navigate to [Canvas](https://canvas.uw.edu) in the Safari web browser. Alternatively, click on the Purple UW bookmark from the homescreen dock to navigate to this page.
+2. Login with your UW NetID credentials. You may be asked to sign in with two-factor authentication (2FA) for added security. 
 3. You should now see a dashboard page. Using the purple navigation bar located on the left-side of the screen, click on 'Courses'.
 4. You will see a list of courses that you have been added to. Locate and click on the course that you are teaching or grading for.
 5. You should now see the course homepage. Using the blue courses navigation links, locate and click on the 'Assignments' link.
@@ -61,6 +67,3 @@ Some of these benefits include:
 ### Grading by Secret Numbers
 
 ### Statistics for Grading Calibration 
-
-## Known Issues
-
