@@ -6,9 +6,9 @@ title: Canvas SpeedGrader
 # Canvas SpeedGrader
 {:.no_toc}
 
-{: .highlight .err }
-Page Under Development
-Please note that this site is still under development.
+{: .note-title }
+> Page Under Development
+> Please note that this site is still under development.
 
 ## Table of contents
 {: .no_toc .text-delta }
