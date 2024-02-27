@@ -20,6 +20,17 @@ title: Canvas SpeedGrader
 ---
 
 ## Introduction
+SpeedGrader is a electronic grading tool from Canvas that had been adopted by the University of Washington School of Dentistry to facilitate digital grading. Digital grading has many advantages over paper grading:
+-- It enhances student access to accurate grades.
+-- It allows instructors to provide more instant and higher-quality feedback not typically offered through paper grading.
+-- It minimizes the chance of lost scores, forms, or doctored forms.
+-- It reduces printing burdens and paper waste.
+-- It allows you to view the statistics for each grader for grading calibration and consistency.
+
+Like any other tool, SpeedGrader does have certain limitations and drawbacks:
+-- It require a stable, high-speed internet connection.
+-- It does not inform you if you have missed grading a criteria for a student.
+-- It can override entered grades if multiple instructors grade the same student concurrently.
 
 ## Affiliate Faculty
 ### Accessing SpeedGrader
