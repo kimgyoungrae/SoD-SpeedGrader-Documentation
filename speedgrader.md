@@ -11,6 +11,12 @@ title: Canvas SpeedGrader
 >
 > Please note that this site is still under development.
 
+{: .note-title }
+> Canvas SpeedGrader Currently Unavailable
+>
+> Due to a recent update to Canvas, the SpeedGrader tool is no longer functioning properly with the iPads. We are waiting for a response back from Instructure to
+> get this issue resolved.
+
 ## Table of contents
 {: .no_toc .text-delta }
 
