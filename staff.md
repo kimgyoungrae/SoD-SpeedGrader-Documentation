@@ -5,9 +5,9 @@ description: A listing of all the course staff members.
 ---
 
 # Support Staff
-## Student Assistant and Software Developer
+## Student Assistant
 
-{% assign instructors = site.staffers | where: 'role', 'Student Assistant and Software Developer' %}
+{% assign instructors = site.staffers | where: 'role', 'Student Assistant' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}

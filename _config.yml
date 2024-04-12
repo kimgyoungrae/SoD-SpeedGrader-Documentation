@@ -28,12 +28,14 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Jason Kim:
-    - 'https://homes.cs.washington.edu/~kimjason'
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Canvas:
+    - 'https://canvas.uw.edu/'
+  MyUW:
+    - 'https://my.uw.edu/'
+  SoD Homepage:
+    - 'https://dental.uw.edu/'
+  SoD Intranet:
+    - 'https://uwnetid.sharepoint.com/sites/sod/SitePages/home.aspx'
 footer_content:
 
 # Collections for website data
