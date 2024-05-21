@@ -6,11 +6,6 @@ title: Canvas SpeedGrader
 # Canvas SpeedGrader
 {:.no_toc}
 
-{: .note-title }
-> Canvas SpeedGrader Currently Unavailable
->
-> Due to a recent Canvas update, the SpeedGrader tool is no longer functioning properly with the iPads without a keyboard. We are waiting for a response back from Instructure to get this issue resolved.
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -47,7 +42,7 @@ In order to access SpeedGrader on the iPad, follow these steps:
 3. You should now see the Canvas dashboard page. Using the purple navigation bar located on the left-side of the screen, click on 'Courses'. You will see a list of courses that you have been added to. Locate and click on the course that you are grading for. You should now see that course homepage.
     <iframe src="https://drive.google.com/file/d/1sNQZH9GWjadJaOht3rOoPy83mpHf9cnB/preview" width="640" height="400" allow="autoplay"></iframe>
 4.  Using the blue courses navigation links on the left, locate and click on the 'Assignments' link. Under 'Assignments', locate and click on the assignment that you are grading.
-    <iframe src="https://drive.google.com/file/d/1BKGwP5XqSu3toM_FlhZiKEUdigy0VAjO/preview" width="640" height="400" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1BKGwP5XqSu3toM_FlhZiKEUdigy0VAjO/preview" width="640" height="400" allow="autcaloplay"></iframe>
 6. On the page of the assignment, find 'Related Items' on the right side of the screen. Underneath 'Related Items', click on 'SpeedGrader'. Adjust the viewfinder by moving the divider.
     <iframe src="https://drive.google.com/file/d/1Oxq81a4Wn9irZQNGuD_gEKSiLm-RKQoR/preview" width="640" height="400" allow="autoplay"></iframe>
 7. Click on 'View Rubric' to start grading the assignment. Once you are done with the entire rubric be sure to hit 'Save'. Canvas will not let you know if you have missed a criteria for grading so be sure to double-check you have graded everything. If you do not hit 'Save' you will lose what you have graded thus far.
