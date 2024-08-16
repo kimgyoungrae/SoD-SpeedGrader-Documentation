@@ -22,7 +22,11 @@ Welcome! This site provides information regarding how to better integrate educat
 [SoD Homepage](https://dental.uw.edu){: .btn .btn-purple }
 [SoD Intranet](https://uwnetid.sharepoint.com/sites/sod/){: .btn .btn-purple }
 
-
+{: .note-title }
+> Important
+>
+> Jason will be moving on from the School of Dentistry effective August 2024. For any futher questions, comments, or concerns regarding educational technology
+> matters please contact UW SoD-IT.
 
 
 
@@ -32,4 +36,4 @@ If there are any issues with the site or if you have feedback, please visit the 
 
 
 
-This site was last updated on May 21, 2024 by Jason Kim.
+This site was last updated on August 16, 2024 by Jason Kim.
